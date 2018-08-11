@@ -4,21 +4,14 @@ Code for realtime object detection and recognition . The model is trained on caf
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Download MobileNetSSD_deploy.caffemodel and MobileNetSSD_deploy.prototxt.txt for real time object detection.
+- Host all the files on the same directory
+- It is always a good practice to create a virtual environment for every project , not compuslory but ensures that dependencies are not hampered elsewhere.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
 ```
 Give the example
