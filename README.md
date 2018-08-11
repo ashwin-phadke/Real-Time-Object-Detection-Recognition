@@ -18,49 +18,34 @@ pip install -r requirements.txt
 ```
 
 
-## Running the tests
-```
-$ python objdet.py PATH_TO_PROTOTXT_FILE PATH_TO_CAFFE_MODEL  CONFIDENCE[OPTIONAL]
-```
-### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+- Tested on 
+  - Intel i3 6006U CPU
+  - OS : Linux Fedora 28
+  - 4GB RAM
+  
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+If you have any :
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+- Pull Requests : make one, work is always appreciated.
+- Issues        : they are what help us improve, do create if any.
+- Idea          : feature requests etc.
+- Suggestions   : The world of Open Source
+
+
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ashwin Phadke** - *Initial work* - 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
@@ -68,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Amazing Ad.
+* Open Source Community.
+* Last mile contributors.
