@@ -43,7 +43,7 @@ If you have any :
 
 ## Authors
 
-* **Ashwin Phadke** - *Initial work* - 
+* **Ashwin Phadke** 
 
 
 
