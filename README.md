@@ -14,21 +14,14 @@ Code for realtime object detection and recognition . The model is trained on caf
 
 
 ```
-Give the example
+pip install -r requirements.txt
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
-
-Explain how to run the automated tests for this system
-
+```
+$ python objdet.py PATH_TO_PROTOTXT_FILE PATH_TO_CAFFE_MODEL  CONFIDENCE[OPTIONAL]
+```
 ### Break down into end to end tests
 
 Explain what these tests test and why
