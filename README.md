@@ -27,6 +27,12 @@ pip install -r requirements.txt
   - OS : Linux Fedora 28
   - 4GB RAM
   
+## Best Results based on number of objects detected 
+
+'''
+To Run : python objdet.py -p [PATH TO PROTOTXT FILE] -m [PATH TO CAFFEMODEL DEPLOY] -c [CONFIDENCE]
+'''
+
 
 
 ## Contributing
