@@ -7,6 +7,7 @@ Code for realtime object detection and recognition . The model is trained on caf
 - Download MobileNetSSD_deploy.caffemodel and MobileNetSSD_deploy.prototxt.txt for real time object detection.
 - Host all the files on the same directory
 - It is always a good practice to create a virtual environment for every project , not compuslory but ensures that dependencies are not hampered elsewhere.
+- It contains more than around 40+ objects trained model.
 
 
 ### Installing
